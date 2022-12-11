@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilalgaming250
 - 🌱 I’m currently learning Web Devlopment
-- 💞️ Wannabe Lua/FiveM Dev lol
+- 💞️ Lua/FiveM Dev 
 - 📫 You can contact me on discord [Bilal#8532] ♥
 
 <!---
