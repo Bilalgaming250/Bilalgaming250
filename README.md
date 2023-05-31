@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bilalgaming250
 - 🌱 I’m currently learning Web Devlopment
-- 💞️ Lua/FiveM Dev 
-- 📫 You can contact me on discord [Bilal#8532] ♥
+- 🌱 Lua/FiveM Dev 
+- 📫 You can contact me on discord [Bilal#8532]
 
 <!---
 Bilalgaming250/Bilalgaming250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
