@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bilalgaming250
-- 🌱 I’m currently learning Fullstack Web Devlopment
 - 🌱 Lua/FiveM/RedM Dev
 - ☕ [Buy Me A Coffee](https://ko-fi.com/bilal_)
 - 📫 You can contact me on discord [bilal8532]
